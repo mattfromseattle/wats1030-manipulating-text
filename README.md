@@ -120,6 +120,7 @@ VIM - :set number or :set nu
 EMACS - M-x linum-mode
 
 * Explore the Emacs file browser mode. Describe how it works here.
+
 To access the file browser, use the command C-x, which enteres into 'dired mode.' From there, you give the path of a directory to open and use the arrow keys to move
 around. The Emacs keyboard commands are still available for manuevering around content as well. Using the < or > will allow you to move between the different
 subdirectories and the ^ command will move you up a level in the directory tree.
